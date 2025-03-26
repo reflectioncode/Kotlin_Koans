@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 92
-        length: 6
+        length: 21
         placeholder_text: TODO()
         initial_state:
           length: 6

@@ -13,14 +13,15 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: iBBRH3yyNCy0qb5WuTm5bA==
         selected: true
-        status: Solved
+        status: Unchecked
     learner_created: false
   - name: test/tests.kt
     visible: false
     learner_created: false
 feedback_link: "https://docs.google.com/forms/d/e/1FAIpQLSeYool5qTz-p77fzn_9UKQVjO3u3Al6WjzEyW5cbjspRwtQig/viewform?usp=pp_url&entry.2103429047=Introduction+/+Hello,+world!"
-status: Solved
+status: Unchecked
 feedback:
-  message: Congratulations!
-  time: "Wed, 26 Mar 2025 12:42:02 UTC"
+  message: "No tests have run. For more information, see <a href=\"https://plugins.jetbrains.com/plugin/10081-jetbrains-academy/docs/troubleshooting-guide.html#no_tests_have_run\"\
+    >the Troubleshooting guide</a>"
+  time: "Wed, 26 Mar 2025 15:36:34 UTC"
 record: -1

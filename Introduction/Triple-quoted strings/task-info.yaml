@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 162
-        length: 13
+        length: 16
         placeholder_text: .trimIndent()
         initial_state:
           length: 13
