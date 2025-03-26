@@ -5,7 +5,6 @@
     <content url="file://$MODULE_DIR$/../../../../Classes/Rename on import">
       <excludeFolder url="file://$MODULE_DIR$/../../../../Classes/Rename on import/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../Classes/Rename on import/build" />
-      <excludeFolder url="file://$MODULE_DIR$/../../../../Classes/Rename on import/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
