@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$/../../../../Classes/Sealed classes">
       <excludeFolder url="file://$MODULE_DIR$/../../../../Classes/Sealed classes/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../../Classes/Sealed classes/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../Classes/Sealed classes/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
