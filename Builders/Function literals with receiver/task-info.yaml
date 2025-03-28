@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 66
-        length: 6
+        length: 19
         placeholder_text: TODO()
         initial_state:
           length: 6
@@ -13,7 +13,7 @@ files:
         encrypted_possible_answer: lHMCpiaCR4jq30yMpMuesw==
         selected: false
         status: Unchecked
-      - offset: 112
+      - offset: 125
         length: 6
         placeholder_text: TODO()
         initial_state:
